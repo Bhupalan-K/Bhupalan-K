@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bhupalan K</h1>
-<h3 align="center">Entry-Level Java Developer with Skills in Spring Framework and Web Technologies</h3>
+<h3 align="center">Entry-Level Front-end Developer with Skills in React</h3>
 
 - 🌱 I’m currently learning **Data structure and Algorithm**
 
@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bhupalan k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupalan k" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/bhupalan k](https://linkedin.com/in/bhupalan-k-487695247)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupalan k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
